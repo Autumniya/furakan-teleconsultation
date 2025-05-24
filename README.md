@@ -1,6 +1,6 @@
 # Furakan Teleconsultation App
 
-Furakan is a Flutter-based teleconsultation mobile application built by **A-Recreations/Donniya**. It enables users in Mali to:
+Furakan is a Flutter-based teleconsultation mobile application built by **A-Recreations/Arixy_Dev**. It enables users in Mali to:
 
 - Start video calls with doctors  
 - Select symptoms and receive specialty recommendations  

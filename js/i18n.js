@@ -162,7 +162,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   /* initial language (default EN) */
-  setLang(localStorage.getItem('furakan_lang') || 'en');
+  setLang(localStorage.getItem('furakan_lang') || 'fr');
 
   /* ------------------------------------------------------------------
      3. CLICK HANDLERS

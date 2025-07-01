@@ -3,54 +3,59 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Thank You | Furakan</title>
+  <title data-i18n="thank_page_title">Thank You | Furakan</title>
 
-  <!-- Re-use your main stylesheet + fonts -->
+  <!-- Re-use main stylesheet + fonts -->
   <link rel="stylesheet" href="css/style.css" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
 </head>
 <body>
-  <!-- Keep the fixed header so navigation works site-wide -->
+  <!-- Header -->
   <header class="header">
     <div class="container">
       <nav class="nav">
         <div class="logo">Furakan</div>
         <ul class="nav-links">
-          <li><a href="index.html#home">Home</a></li>
-          <li><a href="index.html#about">About</a></li>
-          <li><a href="index.html#features">Features</a></li>
-          <li><a href="index.html#screenshots">Screenshots</a></li>
-          <li><a href="index.html#contact">Contact</a></li>
+          <li><a href="index.html#home" data-i18n="nav_home">Home</a></li>
+          <li><a href="index.html#about" data-i18n="nav_about">About</a></li>
+          <li><a href="index.html#features" data-i18n="nav_features">Features</a></li>
+          <li><a href="index.html#screenshots" data-i18n="nav_screenshots">Screenshots</a></li>
+          <li><a href="index.html#contact" data-i18n="nav_contact">Contact</a></li>
         </ul>
       </nav>
     </div>
   </header>
 
   <!-- Main Content -->
-  <main style="min-height: 100vh; display: flex; align-items: center; justify-content: center; padding-top: 120px;">
-    <section class="intro" style="text-align: center;">
+  <main style="min-height:100vh;display:flex;align-items:center;justify-content:center;padding-top:120px;">
+    <section class="intro" style="text-align:center;">
       <div class="container">
-        <h1 style="color: var(--secondary-color); margin-bottom: 1rem;">Thank you for your purchase!</h1>
-        <p style="font-size: 1.1rem; max-width: 600px; margin: 0 auto 2rem;">
-          Your payment was successful and your account is being updated.  
-          We’ve sent you a confirmation email with the details.  
+        <h1 style="color:var(--secondary-color);margin-bottom:1rem;" data-i18n="thank_head">
+          Thank you for your purchase!
+        </h1>
+
+        <p data-i18n="thank_body" style="font-size:1.1rem;max-width:600px;margin:0 auto 2rem;">
+          Your payment was successful and your account is being updated.
+          We’ve sent you a confirmation email with the details.
           If you have any questions, just hit reply or email
           <a href="mailto:arecreations@donniya.in">arecreations@donniya.in</a>.
         </p>
-        <a href="index.html" class="btn">Back to Home</a>
+
+        <a href="index.html" class="btn" data-i18n="btn_back_home">Back to Home</a>
       </div>
     </section>
   </main>
 
-  <!-- Optional: same footer if you like -->
+  <!-- Footer -->
   <footer class="footer">
     <div class="container">
-      <p>&copy; 2025 Furakan. All rights reserved.</p>
+      <p data-i18n="footer_copy_simple">&copy; 2025 Furakan. All rights reserved.</p>
     </div>
   </footer>
-  <!-- very end of thankyou.html -->
-<script src="js/main.js"></script>
+
+  <script src="js/main.js"></script>
+  <!-- remember to load js/i18n.js after this -->
 </body>
 </html>

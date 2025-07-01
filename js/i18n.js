@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', () => {
       /* thank-you page */
       thank_head: 'Thank you for your purchase!',
       thank_body:
-        'Your payment was successful and your account is being updated. We’ve sent you a confirmation email with the details. If you have any questions, just hit reply or email <a href="mailto:arecreations@donniya.in">arecreations@donniya.in</a>.',
+        'Your payment has been made successfully and your wallet reloaded. Please return to the application. If you have any questions, simply reply or write to <a href="mailto:arecreations@donniya.in">arecreations@donniya.in</a>.',
       btn_back_home: 'Back to Home',
     },
 
@@ -140,7 +140,7 @@ document.addEventListener('DOMContentLoaded', () => {
       /* thank-you page */
       thank_head: 'Merci pour votre achat !',
       thank_body:
-        'Votre paiement a été effectué avec succès et votre compte est en cours de mise à jour. Nous vous avons envoyé un e-mail de confirmation contenant les détails. Si vous avez des questions, répondez simplement ou écrivez à <a href="mailto:arecreations@donniya.in">arecreations@donniya.in</a>.',
+        'Votre paiement a été effectué avec succès et votre porte-feuille rechargé. Veuillez retourner dans l’application. Si vous avez des questions, répondez simplement ou écrivez à <a href="mailto:arecreations@donniya.in">arecreations@donniya.in</a>.',
       btn_back_home: 'Retour à l’accueil',
     },
   };

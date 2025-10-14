@@ -1,8 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "furakan",
-    "package_name": "com.ari.furakanpt.furakan",
-    "sha256_cert_fingerprints": ["AA:BB:...:ZZ"]
-  }
-}]

@@ -140,7 +140,7 @@ document.addEventListener('DOMContentLoaded', () => {
       /* thank-you page */
       thank_head: 'Merci pour votre achat !',
       thank_body:
-        'Votre paiement a été effectué avec succès et votre porte-feuille rechargé. Veuillez retourner dans l’application. Si vous avez des questions, répondez simplement ou écrivez à <a href="mailto:arecreations@donniya.in">arecreations@donniya.in</a>.',
+        'Votre paiement a été effectué avec succès. Veuillez retourner dans l’application Furakan pour cliquer sur vérifier la transaction et déverrouiller votre pass ! Si vous avez des questions, répondez simplement ou écrivez à <a href="mailto:arecreations@donniya.in">arecreations@donniya.in</a>.',
       btn_back_home: 'Retour à l’accueil',
     },
   };

@@ -53,6 +53,12 @@
         </p>
 
         <a href="index.html" class="btn" data-i18n="btn_back_home">Back to Home</a>
+        <a id="openApp" class="btn">Open in app</a>
+         <script>
+          const qs = location.search || '';
+          document.getElementById('openApp').href = 'furakan://thankyou' + qs;
+         </script>
+
       </div>
     </section>
   </main>

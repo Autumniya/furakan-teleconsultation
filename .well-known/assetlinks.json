@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.ari.furakanpt.furakan",
-    "sha256_cert_fingerprints": ["C7:35:91:E2:45:39:7C:CF:F0:17:B6:4E:00:38:1D:47:9A:68:F6:62:5E:A8:8F:1E:01:76:1F:55:1E:7B:C6:5F"]  // release keystore fingerprint
+    "sha256_cert_fingerprints": ["C7:35:91:E2:45:39:7C:CF:F0:17:B6:4E:00:38:1D:47:9A:68:F6:62:5E:A8:8F:1E:01:76:1F:55:1E:7B:C6:5F"]
   }
 }]

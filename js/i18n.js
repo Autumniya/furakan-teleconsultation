@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', () => {
       /* thank-you page */
       thank_head: 'Thank you for your purchase!',
       thank_body:
-        'Your payment has been made successfully and your wallet reloaded. Please return to the application. If you have any questions, simply reply or write to <a href="mailto:arecreations@donniya.in">arecreations@donniya.in</a>.',
+        '  Your payment was successful and your account is being updated. We’ve sent you a confirmation email with the details. PLease return to the Furakan app to click on verify transaction and unlock your pass! If you have any questions, simply reply or write to <a href="mailto:arecreations@donniya.in">arecreations@donniya.in</a>.',
       btn_back_home: 'Back to Home',
     },
 
@@ -140,7 +140,7 @@ document.addEventListener('DOMContentLoaded', () => {
       /* thank-you page */
       thank_head: 'Merci pour votre achat !',
       thank_body:
-        'Votre paiement a été effectué avec succès. Veuillez retourner dans l’application Furakan pour cliquer sur vérifier la transaction et déverrouiller votre pass ! Si vous avez des questions, répondez simplement ou écrivez à <a href="mailto:arecreations@donniya.in">arecreations@donniya.in</a>.',
+        'Votre paiement a été effectué avec succès et votre compte est en cours de mise à jour. Nous vous avons envoyé un e-mail de confirmation avec les détails. Veuillez retourner sur l'application Furakan pour cliquer sur « Vérifier la transaction » et débloquer votre pass ! Pour toute question, n'hésitez pas à nous contacter par e-mail à <a href="mailto:arecreations@donniya.in">arecreations@donniya.in</a>'.      
       btn_back_home: 'Retour à l’accueil',
     },
   };

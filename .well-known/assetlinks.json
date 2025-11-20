@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.ari.furakanpt.furakan",
       "sha256_cert_fingerprints": [
-        "71:5E:B9:9E:06:E9:4D:25:1D:B0:3F:26:2D:4F:5E:2E:3F:81:8E:EE:7A:E1:2B:20:7A:A0:BA:D5:C0:6F:88:C6"
+        "71:5E:B9:9E:06:E9:4D:25:1D:B0:3F:26:2D:4F:5E:2E:3F:81:8E:EE:7A:E1:2B:20:7A:A0:BA:D5:C0:6F:88:C6",
+        "F8:74:77:DA:E5:92:3A:BF:C8:AE:40:A5:5F:AF:A9:70:3E:18:82:FA:88:E5:CB:3D:38:05:5B:BE:1A:18:A5:46"
       
       ]
     }

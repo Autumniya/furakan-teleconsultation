@@ -137,10 +137,10 @@ document.addEventListener('DOMContentLoaded', () => {
       screenshots_title: 'Captures d’écran de l’application',
 
       /* get-code */
-      getcode_title: 'Obtenir le code',
+      getcode_title: 'Télécharger',
       getcode_desc:
-        'Furakan est un projet en évolution. Vous pouvez aussi le retrouver sur GitHub.',
-      btn_github: 'Voir sur GitHub',
+        'Furakan est un projet innovant, déjà disponible sur le Playstore.',
+      btn_github: 'Voir sur Playstore',
 
       /* contact */
       contact_title: 'Nous contacter',

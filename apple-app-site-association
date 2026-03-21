@@ -5,6 +5,10 @@
       {
         "appID": "VWCH7259Q3.com.ari.furakanpt.furakan",
         "paths": ["/thankyou*"]
+      },
+      {
+        "appID": "YOUR_TEAM_ID.com.kodon.donniya_ios_bundle_id",
+        "paths": ["/thankyou*"]
       }
     ]
   }

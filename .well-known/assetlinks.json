@@ -16,8 +16,8 @@
       "namespace": "android_app",
       "package_name": "com.kodon.donniya",
       "sha256_cert_fingerprints": [
-        "DONNIYA_RELEASE_OR_PLAY_SIGNING_SHA256",
-        "DONNIYA_DEBUG_SHA256_IF_YOU_WANT_DEBUG_TESTING"
+        "C9:6A:E9:C6:66:54:39:66:CD:32:11:83:C0:AF:0F:E7:32:95:6C:61:CF:5F:F6:16:4A:AE:7C:D3:EC:8E:46:B5",
+        "74:71:68:AE:4E:86:6D:23:01:C2:CB:50:C8:1D:5F:25:F3:8A:DF:48:12:52:90:93:D3:CC:C3:E5:DC:72:8D:38"
       ]
     }
   }
